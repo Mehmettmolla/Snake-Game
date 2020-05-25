@@ -1,2 +1,2 @@
 # Snake-Game
- Mini Snake game in c
+ Mini Snake Game in c
